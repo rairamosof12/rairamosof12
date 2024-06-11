@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## sejam todos bem vindos👋
+- estou me desenvolvendo com a alura
+- estudando o javascript
+- utilizo esse espaço para o desenvolvimento dos meus projetos
+  ## rairamosof12@gmail.com
 <!--
 **rairamosof12/rairamosof12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
